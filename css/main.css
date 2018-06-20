@@ -77,6 +77,12 @@ body {
 	color: #2F4988;
 }
 
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /**
  * links - (_document-setup.scss)
  * -------------------------------------------------------------------
