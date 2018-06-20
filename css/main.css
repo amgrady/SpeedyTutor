@@ -385,12 +385,6 @@ form,
  * floated image - (_document-setup.scss)
  * -------------------------------------------------------------------
  */
-img.pull-right {
-	margin: .9rem 0 0 2.4rem;
-}
-img.pull-left {
-	margin: .9rem 2.4rem 0 0;
-}
 
 /**
  * block grid paddings - (_document-setup.scss)
